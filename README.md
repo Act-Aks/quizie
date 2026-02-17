@@ -4,8 +4,8 @@ Quizie is a modern, sleek Android application designed to help users track their
 performance. Built with **Jetpack Compose** and **Material Design 3**, it provides a fluid and
 intuitive user experience for all quiz enthusiasts.
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org/)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5.0-blue.svg?style=flat&logo=android)](https://developer.android.com/jetpack/compose)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.3.10-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2026.02.00-blue.svg?style=flat&logo=android)](https://developer.android.com/jetpack/compose)
 [![Material 3](https://img.shields.io/badge/Material%20Design-3.0-green.svg?style=flat&logo=materialdesign)](https://m3.material.io/)
 [![Android](https://img.shields.io/badge/Platform-Android-brightgreen.svg?style=flat&logo=android)](https://www.android.com/)
 
@@ -24,10 +24,10 @@ intuitive user experience for all quiz enthusiasts.
 
 - **Language**: [Kotlin](https://kotlinlang.org/)
 - **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- **Networking**: [Ktor](https://ktor.io/)
-- **Dependency Injection**: [Koin](https://insert-koin.io/)
-- **Local Database**: [Room](https://developer.android.com/training/data-storage/room)
-- **Image Loading**: [Coil](https://coil-kt.github.io/coil/)
+- **Networking**: [Ktor 3.4.0](https://ktor.io/)
+- **Dependency Injection**: [Koin 4.1.1](https://insert-koin.io/)
+- **Local Database**: [Room 2.8.4](https://developer.android.com/training/data-storage/room)
+- **Image Loading**: [Coil 3.3.0](https://coil-kt.github.io/coil/)
 - **Architecture**: Clean Architecture & MVVM (Model-View-ViewModel)
 - **Design**: [Material Design 3](https://m3.material.io/)
 - **Build System**: Gradle Kotlin DSL (.kts)
